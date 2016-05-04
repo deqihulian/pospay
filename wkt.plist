@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wkt.kljrpay.com/app/114.png</string>
+					<string>http://wkt.kljrpay.com/app/Icon-114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wkt.kljrpay.com/app/57.png</string>
+					<string>http://wkt.kljrpay.com/app/Icon-57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
